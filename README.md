@@ -10,6 +10,6 @@
 # contribute
 
 FEEL FREE TO CONTRIBUTE TO THIS REPOSITORY AN MAKE THIS LANDING PAGE AWSOME
-
+please give credits if u reuplod this repo
 
 
